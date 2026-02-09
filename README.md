@@ -6,9 +6,9 @@
 <h3 align="center">Aspiring DevOps Engineer | Cloud Technology Enthusiast | Passionate About Cloud Technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zeeshanshaikh93&label=Profile%20views&color=1a9338&style=flat" alt="Zeeshanshaikh93" /> </p>
 
-- 💬 Ask me about **DevOps, Python, AWS, AZURE**
+- 💬 Ask me about **DevOps, Amazon Web Services(AWS), Microsoft Azure**
 
-- 📫 How to reach me **zmr.9841@gmail.com**
+- 📫 How to reach me **zeeshanahmed.mohd6@gmail.com**
 
 <h3 align="left">Cloud,DevOps Tools and Programming Languages:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/azure/?product=popular"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/> </a> </p>
