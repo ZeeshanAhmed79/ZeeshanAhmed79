@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zeeshan+Ahmed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hi+There!+👋; +I'm+Zeeshan+Ahmed!;" />
 </h1>
 <div align="left">
-<h3 align="center">Aspiring DevOps Engineer | Cloud Technology Enthusiast | Passionate About Cloud Technologies</h3>
+<h3 align="center"> **DevOps Engineer | Cloud Technology** </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zeeshanshaikh93&label=Profile%20views&color=1a9338&style=flat" alt="Zeeshanshaikh93" /> </p>
 
 - 💬 Ask me about **DevOps, Amazon Web Services(AWS), Microsoft Azure**
